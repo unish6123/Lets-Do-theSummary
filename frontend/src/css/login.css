@@ -1,0 +1,90 @@
+/* .loginContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 92vh;
+    
+}
+.subContainer{
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+    justify-content: center;
+}
+.inputForm{
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    
+}
+.insideContainer{
+    background-color:rgb(119, 108, 119);
+    border: 3px solid rgb(190, 181, 181);
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    border-radius: 10px;
+}
+.signUpButton{
+    background-color: rgb(208, 91, 13);
+    margin-top: 1.3rem;
+    margin-left: 0.1rem;
+    border-radius: 3px;
+    width: 12rem;
+    border: solid orange;
+    color: black;
+    font-weight: bold;
+}
+.signinButton{
+    background-color: rgb(213, 100, 13);
+    margin-top: 0.7rem;
+    margin-left: 0rem;
+    border-radius: 3px;
+    width: 12rem;
+    color: black;
+    border: solid orange;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+.or{
+    margin-bottom: 0px;
+    margin-top:0px;
+    
+}
+.signinLink{
+    font-weight: 500;
+    font-size:0.9rem;
+    
+    margin-top:0rem;
+    color:blue;
+    cursor:pointer;
+}
+input{
+    padding-left: 1rem;
+    background-color: rgb(224, 214, 214);
+    border: none;
+    border-radius: 2px;
+    color:black;
+    height: 1.6rem;
+}
+span{
+    font-size: 1.2%;
+    margin-top:3%;
+    margin-left:60%;
+    margin-bottom: 0px;
+    color:rgb(47, 47, 242)
+}
+.forgotPassword{
+    font-size: 0.5rem;
+    color: rgb(8, 46, 59);
+    margin-left: 5rem;
+}
+.forgotPassword:hover{
+    font-size: 0.5rem;
+    color: rgb(19, 79, 99);
+    margin-left: 5rem;
+    cursor: pointer;
+} */
